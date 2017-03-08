@@ -20,3 +20,5 @@ Now it shows two origins:one for fetch, one for push.
 
 ### pbcopy < ~/.ssh/id_rsa.pub
 Copy the sshkey
+
+### git push origin master
