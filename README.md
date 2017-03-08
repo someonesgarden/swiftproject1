@@ -22,3 +22,6 @@ Now it shows two origins:one for fetch, one for push.
 Copy the sshkey
 
 ### git push origin master
+
+うまくいかない場合、以下のコマンドを一度試すこと。
+## git merge --allow-unrelated-histories origin/master
